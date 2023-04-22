@@ -1,1 +1,1 @@
-#!/usr/bin/env puthon3
+#!/usr/bin/python3
